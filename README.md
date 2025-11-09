@@ -1,6 +1,6 @@
 [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://github.com/nejuni)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nejuni&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nejuni&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
